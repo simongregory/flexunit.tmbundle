@@ -2,6 +2,47 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>305363A3-88E2-4F63-82C6-B5F7485B1323</string>
+			<string>4E09AA0E-9884-4F48-884F-35E5A657F334</string>
+			<string>C92E1639-CE87-40C1-9254-D3CB3B190812</string>
+			<string>836D1A61-1FFA-4AA9-B271-5CBFAF1EA553</string>
+			<string>DF14D7A4-53F1-410C-B7FA-3AFC131F1660</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>836D1A61-1FFA-4AA9-B271-5CBFAF1EA553</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>0122EBF1-8BBF-404E-A932-1CB89209DEAF</string>
+					<string>2010CF5D-94DB-4D07-9DE8-4543F48708DF</string>
+					<string>8F546EC2-E624-47B5-A546-DBF5E1806AFE</string>
+					<string>1BF95CFB-3659-408A-B2F1-7B865DA70F3D</string>
+					<string>D4822CEA-E95C-4066-8051-02E5CC07D0D9</string>
+					<string>A3FA5D58-3B10-41BD-9E84-D3F56A072C1E</string>
+				</array>
+				<key>name</key>
+				<string>Assert</string>
+			</dict>
+			<key>DF14D7A4-53F1-410C-B7FA-3AFC131F1660</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>938FB526-7EE1-4161-8096-E59FF7B83B8A</string>
+					<string>5D6EEA1E-07B6-4C73-AA4C-C10BE64739C2</string>
+					<string>2DE0552E-D5E4-4ACC-BD26-72211569A13D</string>
+					<string>327E4EB6-71C6-4D00-8D9F-FEDBDDD62B9C</string>
+					<string>00606DAC-DA33-4AFA-AA84-47ABAC6DB7C5</string>
+				</array>
+				<key>name</key>
+				<string>Fail</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>FlexUnit</string>
 	<key>ordering</key>

@@ -17,10 +17,13 @@ meta_data = [
 { 'title' =&gt; 'AfterClass', 'data' =&gt; '[AfterClass${1:(order=${2:1})}]$0' },
 { 'title' =&gt; 'Before', 'data' =&gt; '[Before]$0' },
 { 'title' =&gt; 'BeforeClass', 'data' =&gt; '[BeforeClass${1:(order=${2:1})}]$0' },
+{ 'title' =&gt; 'DataPoint', 'data' =&gt; '[DataPoint]$0' },
+{ 'title' =&gt; 'DataPoints', 'data' =&gt; '[DataPoints]$0' },
 { 'title' =&gt; 'Ignore', 'data' =&gt; '[Ignore]$0' },
-{ 'title' =&gt; 'RunWith', 'data' =&gt; '[RunWith("$1")]$0' },
+{ 'title' =&gt; 'Parameters', 'data' =&gt; '[Parameters]$0' },
+{ 'title' =&gt; 'RunWith', 'data' =&gt; '[RunWith("${1:org.flexunit.runners.Suite}")]$0' },
 { 'title' =&gt; 'Suite', 'data' =&gt; '[Suite]$0' },
-{ 'title' =&gt; 'Test', 'data' =&gt; '[Theory]$0' },
+{ 'title' =&gt; 'Theory', 'data' =&gt; '[Theory]$0' },
 { 'title' =&gt; 'Test', 'data' =&gt; '[Test${1:(${2:async,}${3:expects="",}${4:description=""})}]$0' }
 ]
 
