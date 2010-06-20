@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[RunWith("${1:class.path}")]</string>
+	<key>name</key>
+	<string>RunWith</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>run</string>
+	<key>uuid</key>
+	<string>C92E1639-CE87-40C1-9254-D3CB3B190812</string>
+</dict>
+</plist>

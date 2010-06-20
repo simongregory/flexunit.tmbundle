@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Assert.assertStrictlyEquals(${1:expected},${2:actual});</string>
+	<key>name</key>
+	<string>assertStrictlyEquals</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>asse</string>
+	<key>uuid</key>
+	<string>2010CF5D-94DB-4D07-9DE8-4543F48708DF</string>
+</dict>
+</plist>
