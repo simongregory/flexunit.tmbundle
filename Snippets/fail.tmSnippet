@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Assert.fail(${1:"${2:Fail message.}"});</string>
+	<key>name</key>
+	<string>fail</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>fail</string>
+	<key>uuid</key>
+	<string>938FB526-7EE1-4161-8096-E59FF7B83B8A</string>
+</dict>
+</plist>
